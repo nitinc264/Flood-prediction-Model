@@ -369,4 +369,4 @@ with proper attribution.
 🏫 Dr. D.Y. Patil School of Science and Technology
 
 ---
-ect useful, don't forget to star the repository!
+# ⭐ If you found this project useful, don't forget to star the repository!
