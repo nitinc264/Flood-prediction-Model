@@ -14,6 +14,11 @@
 
 ---
 
+## 🚀 Live Demo
+**[👉 Try RiskRadar Live](https://nitin454545-riskradar.hf.space)**
+
+---
+
 # 📌 Table of Contents
 
 - [📖 Overview](#-overview)
@@ -337,8 +342,8 @@ docker run -p 8000:8000 riskradar
 
 # 📈 Future Scope
 
+- [x] Hugging Face deployment ✓ — Live at [nitin454545-riskradar.hf.space](https://nitin454545-riskradar.hf.space)
 - [ ] Real-time weather API integration
-- [ ] Hugging Face / Render deployment
 - [ ] Global-scale flood dataset expansion
 - [ ] SMS & Email flood alerts
 - [ ] Mobile-responsive frontend
@@ -368,5 +373,10 @@ with proper attribution.
 🎓 B.Tech — AI & Data Science  
 🏫 Dr. D.Y. Patil School of Science and Technology
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-nitinc264.github.io-blue?style=flat&logo=github)](https://nitinc264.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-nitinc264-black?style=flat&logo=github)](https://github.com/nitinc264)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin%20Chauhan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nitin-chauhan-6963612a7/)
+
 ---
+
 # ⭐ If you found this project useful, don't forget to star the repository!
